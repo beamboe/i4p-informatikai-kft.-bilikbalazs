@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "i4p_informatikai_kft_feladat_megoldas/1.0.0": {
+        "runtime": {
+          "i4p_informatikai_kft_feladat_megoldas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i4p_informatikai_kft_feladat_megoldas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
