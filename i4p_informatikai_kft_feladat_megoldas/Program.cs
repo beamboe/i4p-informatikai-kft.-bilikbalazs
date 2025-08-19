@@ -129,7 +129,6 @@
             Console.WriteLine("Titkosított: " + cipher);
             Console.WriteLine("Visszafejtve: " + decoded);*/
             string wordFilePath = "words.txt";
-
             try
             {
                 using (StreamReader reader = new StreamReader(wordFilePath))
