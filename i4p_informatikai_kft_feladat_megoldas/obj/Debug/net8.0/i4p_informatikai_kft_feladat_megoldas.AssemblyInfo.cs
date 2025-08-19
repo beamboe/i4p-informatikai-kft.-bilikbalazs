@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("i4p_informatikai_kft_feladat_megoldas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00807a670d8da62778f437070574515fbbff903e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e073332b66ee2f29a7d4440a8f5f55fa8d9ec1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("i4p_informatikai_kft_feladat_megoldas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("i4p_informatikai_kft_feladat_megoldas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
